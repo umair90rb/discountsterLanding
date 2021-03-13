@@ -108,7 +108,7 @@ a:not([href]):not([tabindex]):hover {
 }
 
 .bg-defult {
-  background: #f0fd3c !important;
+  background: #1da1f2 !important;
 }
 
 /* ==========================================================================
@@ -135,9 +135,9 @@ a:not([href]):not([tabindex]):hover {
   background-clip: text;
   text-fill-color: transparent;
   background-color: #2dfbff;
-  background-image: -webkit-linear-gradient(bottom right, #ffa42d, #f0fd3c);
-  background-image: -o-linear-gradient(bottom right, #ffa42d, #f0fd3c);
-  background-image: linear-gradient(to top left, #ffa42d, #f0fd3c);
+  background-image: -webkit-linear-gradient(bottom right, #1da1f2, #1da1f2);
+  background-image: -o-linear-gradient(bottom right, #1da1f2, #1da1f2);
+  background-image: linear-gradient(to top left, #1da1f2, #1da1f2);
   position: relative;
 }
 
@@ -168,9 +168,9 @@ a:not([href]):not([tabindex]):hover {
 }
 
 .btn-common {
-  background-image: -moz-linear-gradient(0deg, #ffa42d 0%, #ffa42d 100%);
-  background-image: -webkit-linear-gradient(0deg, #ffa42d 0%, #ffa42d 100%);
-  background-image: -ms-linear-gradient(0deg, #ffa42d 0%, #ffa42d 100%);
+  background-image: -moz-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -webkit-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -ms-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
   position: relative;
   z-index: 1;
 }
@@ -207,8 +207,8 @@ a:not([href]):not([tabindex]):hover {
   border-width: 2px;
   cursor: pointer;
   background-color: transparent;
-  border-color: #f0fd3c;
-  color: #f0fd3c;
+  border-color: #1da1f2;
+  color: #1da1f2;
 }
 
 .btn-border:hover {
@@ -219,11 +219,11 @@ a:not([href]):not([tabindex]):hover {
   cursor: pointer;
   background-color: #fff;
   border: 2px solid #fff;
-  color: #ffa42d;
+  color: #1da1f2;
 }
 
 .btn-border-filled:hover {
-  color: #ffa42d;
+  color: #1da1f2;
   background-color: #ffffff;
   box-shadow: 0px 8px 9px 0px rgba(96, 94, 94, 0.17);
 }
@@ -235,7 +235,7 @@ a:not([href]):not([tabindex]):hover {
 }
 
 .btn-rm {
-  color: #ffa42d;
+  color: #1da1f2;
   padding: 10px 0;
   text-transform: capitalize;
   font-size: 16px;
@@ -255,14 +255,14 @@ a:not([href]):not([tabindex]):hover {
 .btn-trial:hover,
 .btn-trial:active,
 .btn-trial:focus {
-  color: #ffa42d;
+  color: #1da1f2;
 }
 
 .btn-apple {
   border-width: 2px;
-  border-color: #ffa42d;
+  border-color: #1da1f2;
   border-style: solid;
-  background: linear-gradient(to right, #ffa42d 0%, #ffa42d 100%);
+  background: linear-gradient(to right, #1da1f2 0%, #1da1f2 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   transition: all 0.3s ease-in-out;
@@ -272,7 +272,7 @@ a:not([href]):not([tabindex]):hover {
 }
 
 .btn-apple i {
-  background: linear-gradient(to right, #ffa42d 0%, #ffa42d 100%);
+  background: linear-gradient(to right, #1da1f2 0%, #1da1f2 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -280,7 +280,7 @@ a:not([href]):not([tabindex]):hover {
 .btn-apple:hover,
 .btn-apple:active,
 .btn-apple:focus {
-  background: linear-gradient(to right, #f0fd3c 0%, #f0fd3c 100%) !important;
+  background: linear-gradient(to right, #1da1f2 0%, #1da1f2 100%) !important;
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -292,7 +292,7 @@ button:focus {
 .btn-border-fill {
   background: #fff;
   border-color: #fff;
-  color: #ffa42d;
+  color: #1da1f2;
 }
 
 .btn-subtitle {
@@ -529,7 +529,7 @@ button:focus {
     #3c96ff 0%,
     #2dfbff 100%
   ) !important;
-  background: linear-gradient(to right, #ffa42d 0%, #f0fd3c 100%) !important;
+  background: linear-gradient(to right, #1da1f2 0%, #1da1f2 100%) !important;
   box-shadow: 0 0 7px 1px rgba(0, 0, 0, 0.1);
   z-index: 9999;
   padding: 5px;
@@ -698,9 +698,9 @@ button:focus {
   height: 100%;
   top: 0px;
   left: 0px;
-  background-image: -moz-linear-gradient(0deg, #ffa42d 0%, #e2ff3c 100%);
-  background-image: -webkit-linear-gradient(0deg, #ffa42d 0%, #e2ff3c 100%);
-  background-image: -ms-linear-gradient(0deg, #ffa42d 0%, #e2ff3c 100%);
+  background-image: -moz-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -webkit-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -ms-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
 }
 
 .hero-area-2 .contents {
@@ -837,9 +837,9 @@ button:focus {
    Video promo Style
    ========================================================================== */
 .video-promo {
-  background-image: -moz-linear-gradient(0deg, #ffa42d 0%, #f0fd3c 100%);
-  background-image: -webkit-linear-gradient(0deg, #ffa42d 0%, #f0fd3c 100%);
-  background-image: -ms-linear-gradient(0deg, #ffa42d 0%, #f0fd3c 100%);
+  background-image: -moz-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -webkit-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -ms-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
 }
 
 .video-promo .video-promo-content {
@@ -941,7 +941,7 @@ button:focus {
 .services-item .icon i {
   font-size: 42px;
   line-height: 60px;
-  background: linear-gradient(to right, #f0fd3c 0%, #ffa42d 100%);
+  background: linear-gradient(to right, #1da1f2 0%, #1da1f2 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   transition: all 0.3s ease-in-out;
@@ -976,7 +976,7 @@ button:focus {
 
 .single-feature i {
   font-size: 42px;
-  background: linear-gradient(to right, #f0fd3c 0%, #ffa42d 100%);
+  background: linear-gradient(to right, #1da1f2 0%, #1da1f2 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   display: inline-block;
@@ -1148,9 +1148,9 @@ button:focus {
   border-radius: 50px;
   text-align: center;
   position: relative;
-  background-image: -moz-linear-gradient(0deg, #f0fd3c 0%, #ffa42d 100%);
-  background-image: -webkit-linear-gradient(0deg, #f0fd3c 0%, #ffa42d 100%);
-  background-image: -ms-linear-gradient(0deg, #f0fd3c 0%, #ffa42d 100%);
+  background-image: -moz-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -webkit-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -ms-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
   z-index: 1;
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
@@ -1443,9 +1443,9 @@ button:focus {
 
 .single-team .social-list {
   position: absolute;
-  background-image: -moz-linear-gradient(0deg, #ffa42d 0%, #f0fd3c 100%);
-  background-image: -webkit-linear-gradient(0deg, #ffa42d 0%, #f0fd3c 100%);
-  background-image: -ms-linear-gradient(0deg, #ffa42d 0%, #f0fd3c 100%);
+  background-image: -moz-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -webkit-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -ms-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
   border-top-right-radius: 30px;
   bottom: 0;
   left: -40px;
@@ -1646,9 +1646,9 @@ button:focus {
   -moz-transition: background-image 0.3s ease-out;
   -o-transition: background-image 0.3s ease-out;
   transition: background-image 0.3s ease-out;
-  background-image: -moz-linear-gradient(0deg, #ffa42d 0%, #f0fd3c 100%);
-  background-image: -webkit-linear-gradient(0deg, #ffa42d 0%, #f0fd3c 100%);
-  background-image: -ms-linear-gradient(0deg, #ffa42d 0%, #f0fd3c 100%);
+  background-image: -moz-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -webkit-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -ms-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
   box-shadow: 0px 0px 43px 0px rgba(131, 131, 131, 0.38);
 }
 
@@ -2142,9 +2142,9 @@ textarea {
   Subscribe Style
   ========================================================================== */
 #subscribe {
-  background-image: -moz-linear-gradient(0deg, #ffa42d 0%, #f0fd3c 100%);
-  background-image: -webkit-linear-gradient(0deg, #ffa42d 0%, #f0fd3c 100%);
-  background-image: -ms-linear-gradient(0deg, #ffa42d 0%, #f0fd3c 100%);
+  background-image: -moz-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -webkit-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -ms-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
   position: relative;
 }
 
@@ -2298,9 +2298,9 @@ textarea {
 }
 
 footer .footer-Content {
-  background-image: -moz-linear-gradient(0deg, #f0fd3c 0%, #ffa42d 100%);
-  background-image: -webkit-linear-gradient(0deg, #f0fd3c 0%, #ffa42d 100%);
-  background-image: -ms-linear-gradient(0deg, #f0fd3c 0%, #ffa42d 100%);
+  background-image: -moz-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -webkit-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -ms-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
   padding: 60px 0 0px;
   color: #546e7a;
 }
@@ -2338,9 +2338,9 @@ footer .menu li a:hover {
 }
 
 .footer-social-wrap {
-  background-image: -moz-linear-gradient(0deg, #f0fd3c 0%, #ffa42d 100%);
-  background-image: -webkit-linear-gradient(0deg, #f0fd3c 0%, #ffa42d 100%);
-  background-image: -ms-linear-gradient(0deg, #f0fd3c 0%, #ffa42d 100%);
+  background-image: -moz-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -webkit-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
+  background-image: -ms-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
 }
 
 .footer-social-list {
