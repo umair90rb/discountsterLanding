@@ -94,6 +94,11 @@ a:focus {
   outline: none;
 }
 
+.head-title {
+  color: white;
+  text-align: center;
+}
+
 a:not([href]):not([tabindex]) {
   color: #fff;
 }
