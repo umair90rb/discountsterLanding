@@ -404,11 +404,11 @@ button:focus {
   background: #df2926;
 }
 
-.linkedin a {
+.instagram a {
   color: #007bb6;
 }
 
-.linkedin a:hover {
+.instagram a:hover {
   background: #007bb6;
 }
 
@@ -2306,7 +2306,7 @@ footer .footer-Content {
   background-image: -moz-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
   background-image: -webkit-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
   background-image: -ms-linear-gradient(0deg, #1da1f2 0%, #1da1f2 100%);
-  padding: 60px 0 0px;
+  padding: 0px 0 0px;
   color: #546e7a;
 }
 
